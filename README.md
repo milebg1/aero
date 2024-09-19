@@ -1,5 +1,5 @@
 # aero
-Matéria: Algoritmos e Estrutura de DadosI
+Matéria: Algoritmos e Estrutura de Dados I
 
 Professora: Helena Graziottin Ribeiro
 
